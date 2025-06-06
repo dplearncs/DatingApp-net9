@@ -1,1 +1,5 @@
-{}
+{
+  "terminal.integrated.suggest.enabled": false,
+  "editor.suggest.showStatusBar": true,
+  "cSpell.words": ["hmac", "HMACSHA"]
+}
